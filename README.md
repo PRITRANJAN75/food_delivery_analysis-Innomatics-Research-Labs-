@@ -27,4 +27,12 @@ multiple data sources and performing exploratory data analysis.
 - Perform city and cuisine-wise analysis
 
 ## 📂 Project Structure
+food-delivery-analysis/
+│
+├── food_delivery_analysis.ipynb
+├── orders.csv
+├── users.json
+├── restaurants.sql
+├── final_food_delivery_dataset.csv
+└── README.md
 
